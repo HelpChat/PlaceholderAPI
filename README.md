@@ -53,7 +53,8 @@ permissions:
     placeholderapi.admin:
         description: ability to use admin commands
         default: op
-```
+```  
+![](https://www.spigotmc.org/attachments/commands2-png.323864/)
 
 COMMAND | DESCRIPTION
 ------- | -----------
