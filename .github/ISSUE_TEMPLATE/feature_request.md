@@ -1,17 +1,11 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: New placeholders
+about: Have you find some placeholders that aren't on our wiki? Let us know!
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**What's the plugin's link?**
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Does the plugin use an expansion or build-in placeholders? (If it use an expansion, please note the name of it)**
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**List the placeholders here, maybe a short description for each too.**
