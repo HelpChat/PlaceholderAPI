@@ -55,9 +55,18 @@ permissions:
         default: op
 ```
 
-![](https://www.spigotmc.org/attachments/commands2-png.323864/)  
-![](https://img.extendedclip.com/javaw_2018-03-03_01-07-19.png)
-
+COMMAND | DESCRIPTION
+------- | -----------
+/papi info [expansion] | View information for a specific expansion
+/papi parse [args] | Parse a String with placeholders
+/papi parserel [player one] [player two] [args] | Parse a String with relation placeholders
+/papi reload | Reload the config settings
+/papi disablecloud | Disable the expansion cloud
+/papi ecloud | View information about the PlaceholderAPI expansion cloud
+/papi ecloud status | View status of the PlaceholderAPI expansion cloud
+/papi ecloud list [all/author] [page] | List all available expansions
+/papi ecloud info [expansion] | View information about a specific expansion on the ecloud
+/papi ecloud download [expansion] | Download a specific expansion from the ecloud 
 
 ![](https://www.spigotmc.org/attachments/api_usage2-png.323863/)  
 You can find a tutorial on how to use PlaceholderAPI for your own plugin on the [wiki](https://github.com/help-chat/PlaceholderAPI/wiki/Hook-into-PlaceholderAPI)
