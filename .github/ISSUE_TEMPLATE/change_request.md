@@ -5,8 +5,8 @@ about: Request a update/change of a wiki-page
 ---
 
 ### Type
-> What kind of change is it?
-<!-- Please select the right one, by changing the [ ] to [x]. Multiple selections are possible! -->
+> What kind of change is it? (Multiple selections possible)
+<!-- Please select the right one, by changing the [ ] to [x] -->
 
 - [ ] Placeholder(s) changed.
 - [ ] New placeholder(s).
