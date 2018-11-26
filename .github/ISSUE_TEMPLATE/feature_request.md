@@ -4,8 +4,17 @@ about: Have you find some placeholders that aren't on our wiki? Let us know!
 
 ---
 
-**What's the plugin's link?**
+### Type
+> What kind of request is this? (Multiple selections possible)
+<!-- Select the right option by replacing [ ] with [x] -->
 
-**Does the plugin use an expansion or build-in placeholders? (If it use an expansion, please note the name of it)**
+- [ ] New plugin/expansion that provides placeholders. (Request adding of the plugin to the wiki "Plugin placeholders")
+- [ ] Missing plugin that supports PlaceholderAPI. (Request adding of the plugin to "Plugins supporting PlaceholderAPI")
 
-**List the placeholders here, maybe a short description for each too.**
+### Plugin
+> What is the name of the plugin?
+<!-- Please type below this line -->
+
+### Placeholders/others
+> What are the new placeholders/Any additional info?
+<!-- Please type below this line -->
