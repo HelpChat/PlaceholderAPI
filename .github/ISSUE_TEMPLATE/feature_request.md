@@ -1,6 +1,6 @@
 ---
-name: New placeholders
-about: Have you find some placeholders that aren't on our wiki? Let us know!
+name: New placeholders/plugin
+about: Do you have a plugin that supports and/or adds placeholders from/to PlaceholderAPI and that isn't on the wiki? Use this template!
 
 ---
 
