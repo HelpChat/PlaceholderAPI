@@ -18,7 +18,7 @@ about: Request a update/change of a wiki-page
 
 
 ### What is the new value?
-> Placeholder(s) changed: Type what the old and the new placeholder are.  
+> Placeholder(s) changed: Type what the old and the new placeholder(s) is/are.  
 > New Placeholder(s): Type the new placeholder(s).  
 > Plugin no longer supports PlaceholderAPI: Leave this blank.
 <!-- Please type below this line -->
