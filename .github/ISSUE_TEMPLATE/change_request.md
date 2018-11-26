@@ -10,7 +10,7 @@ about: Request a update/change of a wiki-page
 
 - [ ] Placeholder(s) changed.
 - [ ] New placeholder(s).
-- [ ] Plugin no longer supports PlaceholderAPI. (Includes deltion/removal of plugin.)
+- [ ] Plugin no longer supports PlaceholderAPI and/or was deleted.
 
 ### Plugin
 > What is the name of the plugin?
