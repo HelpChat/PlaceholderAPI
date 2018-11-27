@@ -44,18 +44,35 @@ date_format: MM/dd/yy HH:mm:ss
 
 ![](https://www.spigotmc.org/attachments/commands2-png.323864/)
 
-COMMAND                                         | DESCRIPTION
------------------------------------------------ | -----------
-/papi info [expansion]                          | View information for a specific expansion
-/papi parse [args]                              | Parse a String with placeholders
-/papi parserel [player one] [player two] [args] | Parse a String with relation placeholders
-/papi reload                                    | Reload the config settings
-/papi disablecloud                              | Disable the expansion cloud
-/papi ecloud                                    | View information about the PlaceholderAPI expansion cloud
-/papi ecloud status                             | View status of the PlaceholderAPI expansion cloud
-/papi ecloud list [all/author] [page]           | List all available expansions
-/papi ecloud info [expansion]                   | View information about a specific expansion on the ecloud
-/papi ecloud download [expansion]               | Download a specific expansion from the ecloud 
+`[args]` are optional  
+`<args>` are required.
+
+### Normal commands
+Command                                           | Description                                         |
+------------------------------------------------- | --------------------------------------------------- |
+`/papi`                                           | Main command. Shows info about PlaceholderAPI       |
+`/papi list`                                      | Lists all installed expansions, that are active     |
+`/papi info <expansion>`                          | Gives info about an installed expansion             |
+`/papi parse <player/me> <args>`                  | Parses a String with placeholders                   |
+`/papi bcparse <player/me> <args>`                | Parses a String with placeholders and broadcasts it |
+`/papi parserel <player one> <player two> <args>` | Parses a String with relational placeholders        |
+`/papi register <filename>`                       | Register an expansion by its filename               |
+`/papi unregister <expansion>`                    | Unregister an expansion                             |
+`/papi reload`                                    | Reloads the plugin                                  |
+`/papi disablecloud`                              | Disables the connection to the ecloud               |
+
+### Ecloud commands
+Command                                           | Description                                                            |
+------------------------------------------------- | ---------------------------------------------------------------------- |
+`/papi ecloud`                                    | Shows the ecloud commands                                              |
+`/papi ecloud status`                             | Shows the current status of the ecloud                                 |
+`/papi ecloud list <all/author/installed> [args]` | Lists all expansions, those of an author, or those that are installed  |
+`/papi ecloud info <expansion>`                   | Gives info about an expansion on the ecloud                            |
+`/papi ecloud versioninfo <expansion> <version>`  | Gives info about an specific version of an expansion                   |
+`/papi ecloud placeholders <expansion>`           | Lists all placeholders of an expansion                                 |
+`/papi ecloud download <expansion> [version]`     | Downloads an expansion (optionally a specific version) from the ecloud |
+`/papi ecloud refresh`                            | Refreshes the connection to the ecloud                                 |
+`/papi ecloud clear`                              | Clear the cache of the ecloud                                          |
 
 ![](https://www.spigotmc.org/attachments/api_usage2-png.323863/)  
 You can find a tutorial on how to use PlaceholderAPI for your own plugin on the [wiki](https://github.com/help-chat/PlaceholderAPI/wiki/Hook-into-PlaceholderAPI)
