@@ -7,12 +7,15 @@ about: Do you have a plugin that supports and/or adds placeholders from/to Place
 ### Type
 > What kind of request is this? (Multiple selections possible)
 <!-- Select the right option by replacing [ ] with [x] -->
+<!-- For an update of an already listed plugin, use the "Request change" template -->
 
-- [ ] New plugin/expansion that provides placeholders. (Request adding of the plugin to the wiki "Plugin placeholders")
-- [ ] Missing plugin that supports PlaceholderAPI. (Request adding of the plugin to "Plugins supporting PlaceholderAPI")
+- [ ] New expansion providing placeholders.
+- [ ] New plugin providing placeholders.
+- [ ] New plugin supporting PlaceholderAPI.
 
 ### Plugin
-> What is the name of the plugin?
+> What is the name of the plugin/expansion?
+> Provide also a link to it.
 <!-- Please type below this line -->
 
 ### Placeholders/others
