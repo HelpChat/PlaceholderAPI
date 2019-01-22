@@ -5,7 +5,7 @@ You can display information from your favorite plugins in any plugin that suppor
 Through the use of the Expansion cloud, PAPI effectively and efficiently allows you to pick and choose which placeholders you want to install. The Expansion cloud allows you to receive new placeholders, updates to existing placeholder expansions, and much more directly from your server without updating the actual plugin.  
 With over 100,000 downloads, PlaceholderAPI is a must have for a server of any type or scale.
 
-Do you have a plugin that has messages you want to use placeholders in, but the plugin doesn't support PlaceholderAPI directly? No worries... If you have ProtocolLib installed on your server, you can download and install [ChatInjector](https://www.spigotmc.org/resources/38327/) and placeholders will be available even in messages from the spigot.yml  
+> Do you have a plugin that has messages you want to use placeholders in, but the plugin doesn't support PlaceholderAPI directly? No worries... If you have ProtocolLib installed on your server, you can download and install [ChatInjector](https://www.spigotmc.org/resources/38327/) and placeholders will be available even in messages from the spigot.yml  
 
 ![](https://www.spigotmc.org/attachments/placeholders2-png.323869/)  
 A list of available placeholders can be found [here](https://github.com/help-chat/PlaceholderAPI/wiki/Placeholders).
