@@ -1,4 +1,10 @@
 ![](https://www.spigotmc.org/attachments/logo2-png.323867/)  
+
+# Note
+> The wiki has been moved to the original [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI) repository!  
+> Please make your issues about the wiki there instead of here. This wiki and repository will no longer be maintained and might 
+be deleted/archived at a later date!
+
 PlaceholderAPI is a plugin/library that allows servers the use of placeholders from a wide range of your favorite plugins collectively.  
 Essentials, Factions, LuckPerms, Vault, AutoSell, GriefPrevention, etc....  
 You can display information from your favorite plugins in any plugin that supports PlaceholderAPI. See a full list of placeholders and supported plugins below.  
